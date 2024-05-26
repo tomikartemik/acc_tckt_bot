@@ -1,0 +1,40 @@
+{
+    "accounts": [
+        {
+            "login": "account1_login",
+            "password": "account1_password",
+            "tickets": 3,
+            "owner": ""
+        },
+        {
+            "login": "account2_login",
+            "password": "account2_password",
+            "tickets": 0,
+            "owner": ""
+        },
+        {
+            "login": "account3_login",
+            "password": "account3_password",
+            "tickets": 0,
+            "owner": ""
+        },
+        {
+            "login": "account4_login",
+            "password": "account4_password",
+            "tickets": 0,
+            "owner": ""
+        },
+        {
+            "login": "account5_login",
+            "password": "account5_password",
+            "tickets": 0,
+            "owner": ""
+        },
+        {
+            "login": "account6_login",
+            "password": "account6_password",
+            "tickets": 0,
+            "owner": ""
+        }
+    ]
+}
