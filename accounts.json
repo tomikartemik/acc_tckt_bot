@@ -1,4 +1,5 @@
 {
+    "max_tickets": 12,
     "accounts": [
         {
             "login": "account1_login",

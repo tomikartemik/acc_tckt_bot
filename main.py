@@ -6,7 +6,7 @@ with open('accounts.json', 'r') as file:
     accounts_data = json.load(file)
 
 # Количество билетов, которое можно купить
-MAX_TICKETS = 5
+MAX_TICKETS = accounts_data['max_tickets']
 
 # Создаем бота
 bot = telebot.TeleBot('7300107124:AAFya7jWcUByISvHdQPu19s_7V_0zqUPALk')
